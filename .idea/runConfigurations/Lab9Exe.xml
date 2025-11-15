@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab9Exe" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.lab9exe.Lab9Launcher" />
+    <module name="lab9exe" />
+    <option name="VM_PARAMETERS" value="--enable-native-access=javafx.graphics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
