@@ -23,4 +23,5 @@ public class Lab9Application extends Application {
         stage.setScene(scene);
         stage.show();
     }
+
 }
